@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Elsultan/static/css/main.3361c1e4.css",
+    "main.js": "/Elsultan/static/js/main.7c557828.js",
+    "static/media/znger.jpg": "/Elsultan/static/media/znger.593df79b0f2b384a3e60.jpg",
+    "static/media/mix.jpg": "/Elsultan/static/media/mix.49a1828e10bf2704476b.jpg",
+    "static/media/fa-solid-900.ttf": "/Elsultan/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/سجق-شرقي-لحم-بلدي.jpg": "/Elsultan/static/media/سجق-شرقي-لحم-بلدي.4046200d15278d540d39.jpg",
+    "static/media/crep.jpg": "/Elsultan/static/media/crep.0a64e9cec572067515ff.jpg",
+    "static/media/fa-brands-400.ttf": "/Elsultan/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/teka-chek.jpg": "/Elsultan/static/media/teka-chek.034126f4f3ca54dcc63d.jpg",
+    "static/media/borger.jpg": "/Elsultan/static/media/borger.37397cc5c68df02851be.jpg",
+    "static/media/so.jpg": "/Elsultan/static/media/so.23c6ae38c5de14194f60.jpg",
+    "static/media/fa-solid-900.woff2": "/Elsultan/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/logo.png": "/Elsultan/static/media/logo.86f01ee832fb83e3405f.png",
+    "static/media/so1.jpg": "/Elsultan/static/media/so1.b288b1fa9a6d15404201.jpg",
+    "static/media/fa-brands-400.woff2": "/Elsultan/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/hawawhsi.jpg": "/Elsultan/static/media/hawawhsi.0b6a1ad7a34c49e1f84a.jpg",
+    "static/media/paneh.jpg": "/Elsultan/static/media/paneh.411b03887360cac87a69.jpg",
+    "static/media/kbdaSandwiches.jpg": "/Elsultan/static/media/kbdaSandwiches.e2c0f49ec545298d2b9d.jpg",
+    "static/media/sugugSandwiches.jpg": "/Elsultan/static/media/sugugSandwiches.e586ffd6f45b65bc2413.jpg",
+    "static/media/pizza.jpg": "/Elsultan/static/media/pizza.375c4da988cfb5b51552.jpg",
+    "static/media/fa-regular-400.ttf": "/Elsultan/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/logo2.png": "/Elsultan/static/media/logo2.55ed6ed6c7e82e218b43.png",
+    "static/media/fa-regular-400.woff2": "/Elsultan/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/kbda.jpg": "/Elsultan/static/media/kbda.7a83bfbc9a9c19af675f.jpg",
+    "static/media/soses.jpg": "/Elsultan/static/media/soses.5485a662643169d2ee8f.jpg",
+    "static/media/mkronakbda.jpg": "/Elsultan/static/media/mkronakbda.2e04ce136f11a1a0ea8e.jpg",
+    "static/media/panehSandwiches.jpg": "/Elsultan/static/media/panehSandwiches.8c24abbbbb9c3fbb8ac7.jpg",
+    "static/media/zengr.jpg": "/Elsultan/static/media/zengr.0471a939e36303e5e8a0.jpg",
+    "static/media/faheta.jpg": "/Elsultan/static/media/faheta.fc3a826697f50fb8cba5.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Elsultan/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/shawrma.jpg": "/Elsultan/static/media/shawrma.1d7c902814b26b0e83eb.jpg",
+    "static/media/fa-v4compatibility.woff2": "/Elsultan/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/Elsultan/index.html",
+    "main.3361c1e4.css.map": "/Elsultan/static/css/main.3361c1e4.css.map",
+    "main.7c557828.js.map": "/Elsultan/static/js/main.7c557828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3361c1e4.css",
+    "static/js/main.7c557828.js"
+  ]
+}
